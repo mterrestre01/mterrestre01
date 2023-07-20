@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mterrestre01. I hold a MSc in Data Science and AI degree from the University of London
-- 👀 I’m interested in NLP, AI, Deep Learning and Blockchain Programming
+- 👀 I’m interested in Survey Analysis, NLP, Generative AI, & Blockchain Programming
 - 🌱 I’m currently learning about cybersecurity
 - 💞️ I’m looking to collaborate on open source projects, particularly related to gender-issues & environment
 - 📫 Follow me on Twitter @mterrestre
